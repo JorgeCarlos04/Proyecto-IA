@@ -1,1 +1,1 @@
-Codigo main y requisitos del sistema 
+Recursos mas importantesy endpoints a mostrar
