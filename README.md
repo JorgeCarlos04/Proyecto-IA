@@ -1,1 +1,1 @@
-Recursos mas importantesy endpoints a mostrar
+Recursos mas importantes y endpoints a mostrar
