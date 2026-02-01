@@ -1,1 +1,1 @@
-Recursos mas importantes y endpoints a mostrar
+Codigo main y requisitos mas importantes
